@@ -1,4 +1,0 @@
-piece 1
-piece 2
-piece 3
-piece 4
